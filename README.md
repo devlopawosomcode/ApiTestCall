@@ -14,7 +14,7 @@ Command to follow
 3. run the application as "Run as SpringBoot in your IDE"
 
 4. run the application locally
-    "http://localhost:8080//USA/stateabbreviation/{stateAbb}"
+    "http://localhost:8080/USA/stateabbreviation/{stateAbb}"
     
     Note: stateAbb must be in uppercase
 
